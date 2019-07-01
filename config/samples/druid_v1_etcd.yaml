@@ -1,0 +1,7 @@
+apiVersion: druid.sapcloud.io/v1
+kind: Etcd
+metadata:
+  name: etcd-sample
+spec:
+  # Add fields here
+  foo: bar
